@@ -1,25 +1,85 @@
+# Kushal Dahal
 
- About Me:
- I’m currently working on Full-Stack Web Development projects using Node.js, Express.js, MongoDB, and Bootstrap.<br><br> I’m looking to collaborate on open-source projects, web applications, and beginner-friendly developer communities.<br><br> I’m looking for help with advanced backend development, deployment, authentication, and scalable project architecture.<br><br> I’m currently learning Java, JSP/Servlets, Machine Learning basics, and improving my MERN stack skills.<br><br>💬 Ask me about Node.js, MongoDB, Java, Bootstrap, authentication systems, and debugging web applications.<br><br> Fun fact: I enjoy debugging errors almost as much as building the project itself.<br>
+### Full-Stack Web Developer | MERN Stack | TypeScript
 
+Computer Science student and full-stack web developer focused on building modern, scalable, and user-friendly web applications.
 
- Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18DKXg1d99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushal_dahall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushal-dahal-a0449b2a1?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.linkedin.com/in/kushal-dahal-a0449b2a1?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahalkushal2212@gmail.com) 
+I primarily work with React, Node.js, Express.js, MongoDB, and TypeScript, and I'm currently expanding into Next.js, PostgreSQL, Prisma, backend architecture, authentication, and deployment.
 
- Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
- GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kushal2212&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kushal2212&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushal2212&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kushal2212&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy turning ideas into working products — solving problems, debugging, and continuously improving as a developer.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kushal2212&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm Working On
+
+- Building full-stack web applications using React, Node.js, Express.js, and MongoDB
+- Learning Next.js, PostgreSQL, Prisma, and advanced TypeScript
+- Deepening my knowledge of backend architecture, authentication, REST APIs, and deployment
+- Open to collaborating on open-source and real-world projects
+- Interested in building practical applications that solve real-world problems
+
+---
+
+## Tech Stack
+
+**Frontend**
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**
+Node.js · Express.js . appwrite
+
+**Databases**
+MongoDB · PostgreSQL · SQLite
+
+**Tools & DevOps**
+Git · GitHub · Docker · Vercel · Render 
+
+**Other Languages**
+Java · Python · C · C++
+
+---
+
+## Featured Projects
+
+### A.one Brain Construction — Company Website & Admin Panel
+A full-stack business platform built for a construction and engineering company.
+
+**Features:** Public company website, admin dashboard, client management, project management, enquiry management, gallery management, responsive UI, protected admin routes
+
+**Tech:** React · TypeScript · Tailwind CSS · shadcn/ui · Node.js · Express.js · MongoDB
+
+### E-Commerce Application
+A full-stack e-commerce application built to practice modern frontend and backend development.
+
+**Features:** Product management, user authentication, product browsing, shopping cart, REST API integration, responsive interface
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+### Blog Application
+A full-stack blogging platform built to practice REST APIs, authentication, database design, and frontend state management.
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+---
+
+## Currently Learning
+
+Next.js · Advanced TypeScript · PostgreSQL · Prisma · Docker & Deployment · Scalable Full-Stack Architecture
+
+---
+
+## GitHub Stats
+
+![Kushal's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Kushal2212&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kushal2212&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushal2212&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/kushal-dahal-a0449b2a1](https://www.linkedin.com/in/kushal-dahal-a0449b2a1/)
+- Instagram: [instagram.com/kushal_dahall](https://www.instagram.com/kushal_dahall/)
+- Email: [dahalkushal2212@gmail.com](mailto:dahalkushal2212@gmail.com)
