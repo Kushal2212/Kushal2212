@@ -1,6 +1,6 @@
-                                                                 # Kushal Dahal
+Kushal Dahal
 
-                                             ### Full-Stack Web Developer | MERN Stack | TypeScript
+Full-Stack Web Developer | MERN Stack | TypeScript
 
 Computer Science student and full-stack web developer focused on building modern, scalable, and user-friendly web applications.
 
